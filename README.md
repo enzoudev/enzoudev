@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/e188b185-f624-44cf-8c0c-d19e7568d12f)
+![capa-oficial](https://github.com/user-attachments/assets/e36f8940-1ad4-4fdc-9132-5742e1e7a367)
+
 
 
 <!--
