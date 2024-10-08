@@ -1,4 +1,4 @@
-![capa-oficial](https://github.com/user-attachments/assets/e36f8940-1ad4-4fdc-9132-5742e1e7a367)
+![banner oficial2](https://github.com/user-attachments/assets/bb7d6c70-1b08-43d5-89e0-9e999e5006e2)
 
 
 
