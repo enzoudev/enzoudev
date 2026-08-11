@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Berseker Enzo
+# 👋 Olá, eu sou Enzo Gabriel
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mim
 
 💻 Desenvolvedor Full Stack com foco em **Desenvolvimento Web**, interessado em criar aplicações modernas, funcionais e escaláveis.
 
