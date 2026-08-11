@@ -1,18 +1,31 @@
-![banner oficial2](https://github.com/user-attachments/assets/bb7d6c70-1b08-43d5-89e0-9e999e5006e2)
+# 👋 Olá, eu sou Enzo Gabriel
 
+## 🧑‍💻 Sobre mim
 
+* 💻 Desenvolvedor Full Stack com foco em **Desenvolvimento Web**
+* 🚀 Interesse em criar aplicações modernas, funcionais e escaláveis
+* 🔧 Experiência com desenvolvimento **Front-end e Back-end**
+* 🗄️ Interesse em **APIs, bancos de dados e infraestrutura**
+* 🎓 Graduando em **Ciência da Computação**
 
-<!--
-**enzoudev/enzoudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
 
-Here are some ideas to get you started:
+### Linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=js,ts,php,lua" />
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+### Infraestrutura & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=docker,git" />
