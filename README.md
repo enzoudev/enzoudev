@@ -6,7 +6,7 @@
 
 🎓 Graduando em **Ciência da Computação**.
 
-🚀 Buscando aprimorar constantemente meus conhecimentos em desenvolvimento **Front-end, Back-end, APIs, bancos de dados e infraestrutura**.
+🚀 Busco constantemente evoluir minhas habilidades e aprofundar meus conhecimentos em desenvolvimento web, explorando novas tecnologias e boas práticas.
 
 ## 🛠️ Skills
 
