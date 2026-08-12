@@ -11,7 +11,7 @@
 ## 🛠️ Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,lua,mysql,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,lua,prisma,mysql,postgres,docker,git" />
 </p>
 
 ## 📫 Entre em Contato
