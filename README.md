@@ -10,37 +10,37 @@
 🛠️ Tecnologias e Ferramentas
 🎨 Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
 </p>
 
 ⚙️ Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,lua" />
 </p>
 
 🗄️ Banco de Dados e ORM
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma" />
 </p>
 
 ☁️ DevOps e Cloud
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,gcp,azure" />
 </p>
 
 🔧 Ferramentas e Versionamento
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 📫 Entre em contato
 
-<p>
+<p align="center">
 <a href="https://github.com/enzoudev">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -49,4 +49,6 @@
 </a>
 </p>
 
-📧 Email: enzonunesdev@gmail.com
+<p align="center">
+📧 <strong>Email:</strong> enzonunesdev@gmail.com
+</p>
