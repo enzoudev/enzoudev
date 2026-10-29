@@ -37,7 +37,7 @@
 <h3 align="center">☁️ DevOps e Cloud</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,gcp,azure" alt="DevOps e Cloud: Docker, Google Cloud e Azure" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure" alt="DevOps e Cloud: Docker, Google Cloud e Azure" />
 </p>
 
 <h3 align="center">🔧 Ferramentas e Versionamento</h3>
