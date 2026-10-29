@@ -47,4 +47,4 @@
 <a href="https://github.com/enzoudev">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://www.linkedin.com/in/enzo
+<a href="https://www.linkedin.com/in/enzo>
