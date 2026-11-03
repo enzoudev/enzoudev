@@ -31,7 +31,7 @@
 <h3 align="center">🗄️ Banco de Dados e ORM</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma" alt="Banco de dados e ORM: MySQL, PostgreSQL, Supabase e Prisma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma,redis" alt="Banco de dados e ORM: MySQL, PostgreSQL, Supabase e Prisma" />
 </p>
 
 <h3 align="center">☁️ DevOps e Cloud</h3>
