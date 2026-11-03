@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma,redis" alt="Banco de dados e ORM: MySQL, PostgreSQL, Supabase e Prisma" />
 </p>
 
-<h3 align="center">☁️ DevOps e Cloud</h3>
+<h3 align="center">☁️ DevOps e Infraestrutura</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure" alt="DevOps e Cloud: Docker, Google Cloud e Azure" />
