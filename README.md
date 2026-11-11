@@ -25,7 +25,7 @@
 <h3 align="center">⚙️ Backend</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,lua" alt="Backend: Node.js, NestJS, Python e Lua" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,lua" alt="Backend: Node.js, NestJS, Python, fastpi e Lua" />
 </p>
 
 <h3 align="center">🗄️ Banco de Dados e ORM</h3>
